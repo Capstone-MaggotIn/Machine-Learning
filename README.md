@@ -26,12 +26,12 @@ Follow the steps below to use the notebook and replicate the model training proc
 ```bash
 git clone https://github.com/your-username/maggot-classification.git
 cd maggot-classification
-``
+```
 ### 2. Set Up Environment
 Install the required Python packages:
 ```bash
 pip install -r requirements.txt
-``
+```
 ### 3. Download the Dataset
 Click the button above to download the dataset. Extract the contents and place them in the data/ directory as follows:
 ``bash
@@ -51,7 +51,7 @@ maggot-classification/
 │       ├── maggot/
 │       ├── prapupa/
 │       ├── pupa/
-``
+```
 ### 4. Run the Notebook
 Open the Jupyter Notebook **maggot_classification.ipynb** Follow the steps in the notebook to:
 1. Load and preprocess the dataset.
