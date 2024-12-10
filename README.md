@@ -17,7 +17,7 @@ This repository contains a deep learning-based solution for classifying maggots 
 The dataset consists of labeled images for each maggot growth stage.
 
 ### 📥 Download the Dataset
-[![Download Dataset](https://img.shields.io/badge/Download-Dataset-blue?style=for-the-badge&logo=databricks)](link-to-dataset)
+[![Download Dataset](https://drive.google.com/drive/folders/1z9WDFEsUwO8LatX3oof7d2mie0LPDzNu?usp=sharing)](link-to-dataset)
 
 ## 🚀 Getting Started
 Follow the steps below to use the notebook and replicate the model training process.
@@ -34,6 +34,7 @@ pip install -r requirements.txt
 ```
 ### 3. Download the Dataset
 Click the button above to download the dataset. Extract the contents and place them in the data/ directory as follows:
+```
 maggot-classification/
 ├── data/
 │   ├── train/
@@ -50,7 +51,7 @@ maggot-classification/
 │       ├── maggot/
 │       ├── prapupa/
 │       ├── pupa/
-
+```
 ### 4. Run the Notebook
 Open the Jupyter Notebook **maggot_classification.ipynb** Follow the steps in the notebook to:
 1. Load and preprocess the dataset.
