@@ -17,7 +17,7 @@ This repository contains a deep learning-based solution for classifying maggots 
 The dataset consists of labeled images for each maggot growth stage.
 
 ### 📥 Download the Dataset
-[![Download Dataset](https://drive.google.com/drive/folders/1z9WDFEsUwO8LatX3oof7d2mie0LPDzNu?usp=sharing)](link-to-dataset)
+[![Download Dataset]([https://img.shields.io/badge/Download-Dataset-blue?style=for-the-badge&logo=databricks](https://drive.google.com/drive/folders/1z9WDFEsUwO8LatX3oof7d2mie0LPDzNu?usp=sharing))](link-to-dataset)
 
 ## 🚀 Getting Started
 Follow the steps below to use the notebook and replicate the model training process.
